@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e6be12adfb764e348cebb89a5c90603, type: 3}
+  m_Name: Room1-Wall4
+  m_EditorClassIdentifier: 
+  locationName: wall4
+  description: Good news. At least there's a toilet!
+  background: {fileID: 276477482783796667, guid: 9bd54a0c532bb814382a49f594a4e359,
+    type: 3}
+  furniture1: {fileID: 3581408477337333511, guid: 59275d124e8351e45a6522f0a3b67173,
+    type: 3}
+  furniture2: {fileID: 2927618334330596574, guid: 26ce3055a0f8068469b70e5917708f30,
+    type: 3}
+  locationUp: {fileID: 0}
+  locationDown: {fileID: 0}
+  locationRight: {fileID: 11400000, guid: 815a98bb9447b4554a42473d2137273b, type: 2}
+  locationLeft: {fileID: 11400000, guid: 459d53a9900da4278b1f1548022d5fd2, type: 2}
